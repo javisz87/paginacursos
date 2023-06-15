@@ -53,6 +53,7 @@
 .videoSobre-sobre{ 
     flex-direction: column;
     text-align: center;
+    display: flex;
 }
 
 .videoSobre-sobre-list{
